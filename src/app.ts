@@ -13,11 +13,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: [
-      'http://localhost:5173',
-      'http://localhost:3000',
-      'http://localhost:3001',
-    ],
+    origin: ['https://e-com-client-phi.vercel.app'],
     credentials: true,
   }),
 );

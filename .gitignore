@@ -3,4 +3,5 @@ dist
 .env
 
 
-# git remote add origin https://github.com/ronyislam502/next.js-travel-tips-server.git
+# git remote add origin https://github.com/ronyislam502/e-com-store-server.git
+.vercel
